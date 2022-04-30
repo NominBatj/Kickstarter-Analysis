@@ -19,7 +19,8 @@ We created two new analyses: Outcome based on launch date and outcomes based on 
 ### Challenges and Difficulties Encountered
 
 In this project I had few challenges with worksheet “Outcomes Based on Goal”. After filling out the columns with data and making line chart I noticed some data were incorrect. And I found out that I forgot to put the $ sign in formulas. And missed the row in this worksheet.
-https://github.com/NominBatj/Kickstarter-Analysis/issues/3#issue-1221886273
+
+![issue](https://user-images.githubusercontent.com/66500222/166116886-c3ac2b5b-412f-43e8-8361-ae457a6987f6.png)
 
 ## Results
 - From the chart “Theater Outcomes by Launch Date” we could make a conclusions that peak of launched successful projects is May, it has 111 successful projects. June is also shows good results however since then it goes down dramatically and stops on September, from 100 projects to 59. Three main months that are considered to be slowest are January, March and November. 
